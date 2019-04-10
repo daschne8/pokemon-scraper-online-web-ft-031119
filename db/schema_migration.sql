@@ -2,6 +2,6 @@
 -- It should create a table in a new table in the db/ directory.
 create table pokemon (
   id INTEGER PRIMARY KEY,
-  name text,
-  type text
+  name TEXT,
+  type TEXT
 );
